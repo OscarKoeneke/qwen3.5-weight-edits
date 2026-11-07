@@ -1,0 +1,10002 @@
+[
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1448844958,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1981735087,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1856460942,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 285267954,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1031.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 522499809,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1031.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 389325491,
+  "tokens": 22880
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1031.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1858055236,
+  "tokens": 22053
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1031.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1973286740,
+  "tokens": 15240
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1035.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1486276280,
+  "tokens": 31342
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1035.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 188236914,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1035.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1602134772,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1035.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1048995088,
+  "tokens": 27353
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1072.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1137050498,
+  "tokens": 24042
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1072.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1752257982,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1072.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 738059257,
+  "tokens": 22961
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1072.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1093789663,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1078.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1971791169,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1078.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 325886232,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1078.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 172821327,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1078.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 933617754,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1082.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 775681521,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1082.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1587761673,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1082.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 720595900,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1082.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1110973990,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/109.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 160272992,
+  "tokens": 7337
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/109.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 167135368,
+  "tokens": 5236
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/109.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1452499671,
+  "tokens": 3918
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/109.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 794290300,
+  "tokens": 5628
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1143.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 612694167,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1143.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1790281152,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1143.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 395842337,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1143.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1190134209,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1184.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1850675849,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1184.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1175549577,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1184.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1531076406,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1184.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 148028139,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1037893557,
+  "tokens": 31445
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1386684874,
+  "tokens": 23550
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 969119180,
+  "tokens": 18337
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1316891641,
+  "tokens": 21951
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1214.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1643712087,
+  "tokens": 5864
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1214.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1088974490,
+  "tokens": 5816
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1214.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1574757860,
+  "tokens": 2616
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1214.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 667399339,
+  "tokens": 9898
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1255.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1996265898,
+  "tokens": 9485
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1255.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 730863791,
+  "tokens": 4418
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1255.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 341852250,
+  "tokens": 5736
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1255.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 920293246,
+  "tokens": 8094
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1275.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1591832964,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1275.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2138852301,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1275.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 1097344721,
+  "tokens": 32213
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1275.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1131402365,
+  "tokens": 31049
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 918305855,
+  "tokens": 7991
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1193459037,
+  "tokens": 9648
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1461123318,
+  "tokens": 5406
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 128171663,
+  "tokens": 3832
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1332.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 44242869,
+  "tokens": 17352
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1332.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1956367586,
+  "tokens": 8433
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1332.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 166036665,
+  "tokens": 14078
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1332.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1263795323,
+  "tokens": 18044
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1339.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1400404606,
+  "tokens": 22626
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1339.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 279327320,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1339.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1803575238,
+  "tokens": 16190
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1339.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 707593293,
+  "tokens": 18307
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1343.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1368890800,
+  "tokens": 10148
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1343.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 291683634,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1343.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 351467634,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1343.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1036482595,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1425.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1337708098,
+  "tokens": 12376
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1425.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 235774971,
+  "tokens": 10576
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1425.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 2041046155,
+  "tokens": 8174
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1425.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 60095238,
+  "tokens": 7753
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1457.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 430636458,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1457.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 335207661,
+  "tokens": 28602
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1457.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 16364315,
+  "tokens": 11474
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1457.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1278222020,
+  "tokens": 5857
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1517906351,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1938681422,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 949179585,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 709706159,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1787.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2146951836,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1787.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1704140150,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1787.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 159176850,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1787.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1489983481,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1842.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 39846714,
+  "tokens": 20337
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1842.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 435597657,
+  "tokens": 25272
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1842.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 285166299,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1842.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 924681524,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1934.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 959337170,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1934.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 653195132,
+  "tokens": 13136
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1934.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 84405756,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/1934.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 364385125,
+  "tokens": 24577
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1937.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1137009677,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1937.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2146667217,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1937.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 428064712,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/1937.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1563054144,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2043.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 89642178,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2043.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 38996763,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2043.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1239574208,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2043.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1344310166,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2058.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2016778377,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2058.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 71433288,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2058.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1291622947,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2058.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1263859386,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 738730592,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 882827055,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 29359353,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2113836590,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2157.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1874280114,
+  "tokens": 8606
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2157.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1968558419,
+  "tokens": 9447
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2157.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1913415076,
+  "tokens": 4285
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2157.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 824733331,
+  "tokens": 10749
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2159.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2115283786,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2159.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 607154250,
+  "tokens": 27054
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2159.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 340933480,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2159.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 798932967,
+  "tokens": 23825
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2176.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2060511056,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2176.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1454949804,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2176.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 666152407,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2176.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1519394690,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1332862113,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1455824640,
+  "tokens": 20335
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2106677962,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2199.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 100256314,
+  "tokens": 5142
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2232.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 821777682,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2232.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1195421066,
+  "tokens": 10605
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2232.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 2899228,
+  "tokens": 12122
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2232.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 965092119,
+  "tokens": 15059
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2391.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 547568761,
+  "tokens": 20796
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2391.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1040034653,
+  "tokens": 12647
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2391.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 737940674,
+  "tokens": 11863
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2391.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1662185288,
+  "tokens": 14198
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 88709685,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 792671782,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 228229947,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1768971771,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/246.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 688369250,
+  "tokens": 6657
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/246.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1333278507,
+  "tokens": 11560
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/246.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1812967759,
+  "tokens": 18254
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/246.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 42830121,
+  "tokens": 28417
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2476.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1406541512,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2476.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1195346256,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2476.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 440206122,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2476.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 276844416,
+  "tokens": 29306
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2486.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1689315518,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2486.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 708115145,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2486.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1824638906,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2486.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1070171014,
+  "tokens": 15936
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/251.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1439276107,
+  "tokens": 4226
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/251.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 14387714,
+  "tokens": 8124
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/251.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1559666548,
+  "tokens": 9031
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/251.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 904353379,
+  "tokens": 7166
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2517.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2080388989,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2517.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 89186720,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2517.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1624176569,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2517.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1573648607,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2570.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 519724398,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2570.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 187775785,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2570.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 475333493,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2570.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 789698426,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2584.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1613142631,
+  "tokens": 17485
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2584.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1268137148,
+  "tokens": 8596
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2584.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 2031813769,
+  "tokens": 10818
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2584.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 48577448,
+  "tokens": 9892
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2592.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1936662779,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2592.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 994919924,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2592.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 133546425,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2592.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 70009756,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2593.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 778878313,
+  "tokens": 12023
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2593.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1525239513,
+  "tokens": 7583
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2593.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1706150590,
+  "tokens": 12784
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2593.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1190873653,
+  "tokens": 16944
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2626.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1924727150,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2626.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1227795839,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2626.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1410828656,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2626.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1031975801,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2680.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 878340595,
+  "tokens": 5640
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2680.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 453083210,
+  "tokens": 11735
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2680.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1566622072,
+  "tokens": 4256
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2680.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1449415071,
+  "tokens": 9938
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2735.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1529564677,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2735.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 468187591,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2735.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 438136829,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2735.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1045005375,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2743.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 378867093,
+  "tokens": 22653
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2743.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 42893901,
+  "tokens": 10859
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2743.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 127968485,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2743.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1827925572,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2780.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1596558544,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2780.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1092425692,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2780.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 78881751,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/2780.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 741428900,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2789.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 2113929228,
+  "tokens": 6919
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2789.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 663690780,
+  "tokens": 28609
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2789.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1853745948,
+  "tokens": 6647
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/2789.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1220845781,
+  "tokens": 6521
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/478.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1448138390,
+  "tokens": 2783
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/478.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1622556114,
+  "tokens": 1468
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/478.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1456245357,
+  "tokens": 2884
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/478.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 998676314,
+  "tokens": 9142
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/509.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 248449174,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/509.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1937358859,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/509.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 831138082,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/509.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2066792423,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/524.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 501251179,
+  "tokens": 4860
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/524.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 79333337,
+  "tokens": 10035
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/524.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 281885313,
+  "tokens": 12945
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/524.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 969013201,
+  "tokens": 8168
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/634.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1704716635,
+  "tokens": 28868
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/634.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1950366367,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/634.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1143034273,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/634.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1621439353,
+  "tokens": 16885
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/661.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1474986906,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/661.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 241795438,
+  "tokens": 28581
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/661.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 1562692028,
+  "tokens": 9636
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/661.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1400805243,
+  "tokens": 20248
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/668.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 661366833,
+  "tokens": 13877
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/668.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1308284408,
+  "tokens": 13665
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/668.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1243903090,
+  "tokens": 13375
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/668.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1828208497,
+  "tokens": 10061
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/694.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1248397549,
+  "tokens": 21875
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/694.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1478355642,
+  "tokens": 21781
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/694.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1644741142,
+  "tokens": 18554
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/694.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 594795111,
+  "tokens": 22073
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/722.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1728123311,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/722.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1440298472,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/722.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 628556526,
+  "tokens": 17005
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/722.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1402609883,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/769.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1022150756,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/769.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 670361852,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/769.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1527213857,
+  "tokens": 22751
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/769.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1659698758,
+  "tokens": 18572
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 194693843,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1137702866,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2117581193,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 386404216,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/841.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 53189556,
+  "tokens": 16107
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/841.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 931787709,
+  "tokens": 12915
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/841.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1442468089,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/841.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1671897920,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/849.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1931989831,
+  "tokens": 4548
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/849.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1081691363,
+  "tokens": 3779
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/849.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1309630004,
+  "tokens": 2345
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/849.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 785521401,
+  "tokens": 3365
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/858.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1577360234,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/858.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 727432668,
+  "tokens": 32162
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/858.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 533269228,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/858.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 316735,
+  "tokens": 25671
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/893.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1468439973,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/893.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 221321084,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/893.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 194647368,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/893.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1254204679,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/907.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 2138406965,
+  "tokens": 9042
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/907.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1487806019,
+  "tokens": 12510
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/907.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1140804347,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/algebra/907.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1926940961,
+  "tokens": 10106
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/972.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 230390589,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/972.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1724194805,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/972.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 852614550,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/algebra/972.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 861160156,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/1114.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1903090106,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/1114.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 203349070,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/1114.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1303681944,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/1114.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1243624199,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/119.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1104788819,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/119.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 915965804,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/119.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1110486247,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/119.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 108070680,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1016105886,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 514044416,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1713429518,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 809930340,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/14.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 72906895,
+  "tokens": 11119
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/14.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1925576298,
+  "tokens": 32456
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/14.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1633178315,
+  "tokens": 17755
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/14.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 330371017,
+  "tokens": 17880
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/181.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1288790255,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/181.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 1435775087,
+  "tokens": 29632
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/181.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1623900402,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/181.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1067521209,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/188.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 382265423,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/188.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1231020636,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/188.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1443460251,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/188.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 886533569,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/190.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 61138282,
+  "tokens": 6890
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/190.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 2031800579,
+  "tokens": 11414
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/190.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1669185831,
+  "tokens": 30929
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/190.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 53019656,
+  "tokens": 2403
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 157664175,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1910422969,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 49975904,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2836626,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/216.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1563896704,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/216.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1976462792,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/216.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 905188001,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/216.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 747969087,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/238.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1238766674,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/238.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1209508791,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/238.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 699415742,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/238.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1763376110,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/23957.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1647687601,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/23957.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1876103508,
+  "tokens": 9429
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/23957.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 720345918,
+  "tokens": 14637
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/23957.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1819918439,
+  "tokens": 6289
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/25149.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 47582685,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/25149.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1796825621,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/25149.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2131646839,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/25149.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 133976775,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/377.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1550007602,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/377.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1054790170,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/377.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 763111161,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/377.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 193072424,
+  "tokens": 25724
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/389.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 960663785,
+  "tokens": 3250
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/389.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1208773423,
+  "tokens": 6017
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/389.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 79497726,
+  "tokens": 3902
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/389.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1400644914,
+  "tokens": 9724
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/430.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 485107728,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/430.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 577530556,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/430.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 818098655,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/430.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 399142429,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/525.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1313230084,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/525.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1242558566,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/525.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 324534174,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/525.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1103899795,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/731.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 335252627,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/731.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 136186603,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/731.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1004573664,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/731.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1853023457,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/737.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 1014906006,
+  "tokens": 15769
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 321527461,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/counting_and_probability/737.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 1300571840,
+  "tokens": 31195
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 847463229,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/761.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1024770821,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/761.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1837410844,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/761.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1443988766,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/761.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 50019466,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/803.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2128034687,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/803.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1630177825,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/803.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1581874208,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/803.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1731751145,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/913.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 222917621,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/913.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 602868386,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/913.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2096068732,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/counting_and_probability/913.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 655583729,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/1097.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 143310093,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/1097.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1811770184,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/1097.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 448101873,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/1097.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1908363807,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/178.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2009898186,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/178.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1832773603,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/178.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1531804140,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/178.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1294915813,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/221.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 456700977,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/221.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 330858409,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/221.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1514898931,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/221.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1433782486,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/229.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 922405561,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/229.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 952693574,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/229.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 254409700,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/229.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1657593149,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/248.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1561570554,
+  "tokens": 3515
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/248.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 631706108,
+  "tokens": 14313
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/248.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1797356928,
+  "tokens": 11134
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/248.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 723713979,
+  "tokens": 6951
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/283.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 751211601,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/283.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1934113169,
+  "tokens": 25633
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/283.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1041698036,
+  "tokens": 27568
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/283.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 93152515,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/347.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1257716890,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/347.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 891852697,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/347.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 379974325,
+  "tokens": 15530
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/347.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1212784346,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/353.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 894730503,
+  "tokens": 25352
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 374733081,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/353.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1476580911,
+  "tokens": 20846
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1658302519,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/483.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1147895782,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/483.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 3958303,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/483.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1514405841,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/483.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 378036027,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 518384284,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 982421640,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1653800889,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/547.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1856862371,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/627.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 760583482,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/627.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1206543462,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/627.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1786719904,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/627.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1015836395,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2063916940,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1303917046,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1246945141,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1822869234,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/711.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1509498481,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/711.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 28786223,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/711.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1040457320,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/711.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 491984562,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/73.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1119989914,
+  "tokens": 15266
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/73.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1077634163,
+  "tokens": 22476
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/73.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1087851674,
+  "tokens": 15866
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/73.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1888462753,
+  "tokens": 8443
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/795.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2123003340,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/795.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 961616985,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/795.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1651025288,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/795.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 613696390,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/802.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1265123978,
+  "tokens": 8969
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/802.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 686382318,
+  "tokens": 6309
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/802.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 642680368,
+  "tokens": 3013
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/802.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1326644875,
+  "tokens": 5360
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/817.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 1069620032,
+  "tokens": 27047
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/817.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 229893257,
+  "tokens": 32202
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/817.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2113939539,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/817.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1195996818,
+  "tokens": 24515
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/843.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1434111052,
+  "tokens": 10328
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/843.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1818415127,
+  "tokens": 16016
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/843.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1398113122,
+  "tokens": 14268
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/843.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1723704022,
+  "tokens": 15595
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/846.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 19076007,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/846.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 989913167,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/846.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 352062764,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/846.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1675077046,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/947.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1178703990,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/947.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 1071502319,
+  "tokens": 32738
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/947.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2069074909,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/947.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1199905910,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/967.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1842815328,
+  "tokens": 22216
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/geometry/967.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 496842032,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/967.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1693540313,
+  "tokens": 18145
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/geometry/967.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 201289808,
+  "tokens": 29399
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 369450215,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2003127075,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 956141140,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/101.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 138235476,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1014.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 36199312,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1014.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1118430114,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1014.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 603301237,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1014.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 822769656,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1154507187,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2084378075,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 758347606,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/102.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 192316324,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1123.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 991558021,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1123.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 195805739,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1123.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1890919680,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1123.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1197057728,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1126.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1386178357,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1126.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 504947653,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1126.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 959292923,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1126.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 151860736,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1166.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1139408875,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1166.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 281946921,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1166.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 350663598,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1166.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 200858065,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1168.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1092378850,
+  "tokens": 18044
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1168.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 281635001,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1168.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 965698238,
+  "tokens": 17500
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1168.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 160965778,
+  "tokens": 32350
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/117.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1785000433,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/117.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 710447529,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/117.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 470362886,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/117.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 978307250,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1197.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 807352694,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1197.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1324277666,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1197.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 258990157,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1197.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 2080317301,
+  "tokens": 30241
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1217.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1508256401,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1217.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1646794665,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1217.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 239764776,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1217.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1584145113,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1938900154,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 620024997,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 242208977,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1650131014,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1717528994,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1350140452,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1304307201,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 30183492,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 720110506,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1756695697,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2107938409,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/134.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 110234222,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1388.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 738298383,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1388.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1575064341,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1388.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 373001241,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1388.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1202991004,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1998555043,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1098941363,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1353826731,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1928780203,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1422.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 523495198,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1422.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1421925656,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1422.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1275803798,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1422.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1577307350,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1462.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 996321968,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1462.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2053336148,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1462.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2065581573,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1462.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1609198331,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1467.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2112139835,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1467.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 1735269880,
+  "tokens": 32090
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1467.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 307522057,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1467.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 320033038,
+  "tokens": 31476
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/149.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1017601201,
+  "tokens": 8081
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/149.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 1352496373,
+  "tokens": 16182
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/149.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 2031994144,
+  "tokens": 5669
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/149.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1463174533,
+  "tokens": 12722
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1508.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1739341367,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1508.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1148328672,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1508.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1922603143,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1508.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1665428308,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1510.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1382199505,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1510.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1363143218,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1510.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 745417145,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1510.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1555335993,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1544.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 262746052,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1544.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1740975825,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1544.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1534406484,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1544.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1419658405,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1555.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 130239629,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1555.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 294625326,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1555.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1407104816,
+  "tokens": 20032
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1555.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 809012946,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1566.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1601806708,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1566.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 616344450,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1566.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1635003477,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1566.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1215235928,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/158.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1966137825,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/158.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1550002602,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/158.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1499894481,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/158.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 851725755,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1797.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1406856435,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1797.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1783630749,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1797.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 1463670472,
+  "tokens": 32160
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1797.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 282175379,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1806.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1016448231,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1806.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1325784744,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1806.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 702419650,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1806.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1563384749,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1898.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 745590119,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1898.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 116483546,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1898.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 755888192,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1898.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1329625964,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1930.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 185592050,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1930.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 214242291,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1930.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1167666180,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/1930.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1119483785,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 603902373,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 961533698,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 813128423,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/199.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1257371375,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/2046.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 115268341,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/2046.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 325102739,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/2046.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 478005960,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/2046.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1178650059,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/232.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1782753572,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/232.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 633657082,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/232.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 131020108,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/232.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1005520621,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/47.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1708266894,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/47.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 441031354,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/47.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 678074960,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/47.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1996445089,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/515.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1982710188,
+  "tokens": 11202
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/515.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 801987786,
+  "tokens": 8425
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/515.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1308411120,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/515.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 191386773,
+  "tokens": 16597
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/582.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1702938414,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/582.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1400104420,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/582.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 737007426,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/582.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 84752050,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/591.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1698463058,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/591.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 654358218,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/591.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1088854915,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/591.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1275803585,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/607.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 14478281,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/607.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 764422938,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/607.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 118260062,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/607.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 182971125,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/623.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 478838473,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/623.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1043868965,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/623.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 281661512,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/623.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1990924022,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/690.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 116841365,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/690.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1032100064,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/690.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2041194236,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/690.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1569235449,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 136756061,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 360735043,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 130724584,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/776.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1489221742,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/834.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 875812316,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/834.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1956444250,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/834.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1400402104,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/834.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1178320546,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/90.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 886361911,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/90.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1364530832,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/90.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 935172241,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/90.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1915205473,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/955.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1669602877,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/955.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 853995263,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/955.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1779328298,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/955.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 222450104,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/956.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2019925285,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/956.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 902760295,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/956.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1254517621,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/956.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1790063072,
+  "tokens": 30884
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/966.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1672859560,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/966.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 595129943,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/966.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2084352520,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/966.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 240591862,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/986.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 797546066,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/986.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1590898482,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/986.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1480434981,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/986.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 572245725,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/991.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1568177409,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/991.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 157883634,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/991.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1375564456,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/intermediate_algebra/991.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1178656030,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/109.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 816299005,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/109.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1517519099,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/109.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 638753439,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/109.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1705679067,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2132702907,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2065850662,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1070702323,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 99325977,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1172.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 411310210,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1172.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 894164860,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1172.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1684451007,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1172.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1652783755,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1257.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1369090352,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1257.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 390272958,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1257.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1435277098,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1257.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1959898190,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1287.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 748120580,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1287.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1376959768,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1287.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1166540523,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/1287.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1573448659,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/156.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 494860086,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/156.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 947297343,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/156.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1285456911,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/156.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 661986724,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/234.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 189110097,
+  "tokens": 30815
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/234.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 847633118,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/234.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1850549396,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/234.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1325888748,
+  "tokens": 24518
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/239.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 751699991,
+  "tokens": 20824
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/239.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1008872463,
+  "tokens": 7569
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/239.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1701854745,
+  "tokens": 26029
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/239.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 502625651,
+  "tokens": 12090
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/368.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2059011039,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/368.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1559906670,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/368.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1321075163,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/368.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 325614630,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 977921039,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1475175034,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 523510412,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/410.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 721614738,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 631683277,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1641647753,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/427.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1108438017,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/427.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1507062215,
+  "tokens": 31874
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/459.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 702575477,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/459.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1894217937,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/459.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 750598838,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/459.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 184057464,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/515.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1423362847,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/515.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1377070085,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/515.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1403441889,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/515.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1767041469,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/516.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2098113730,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/516.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 407935119,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/516.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 639442194,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/516.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 428361880,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/521.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1632709782,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/521.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 245209848,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/521.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1057537404,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/521.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2123004981,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/533.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 576241658,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/533.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1213790585,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/533.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1127078498,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/533.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 713274769,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1415152478,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/572.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1300375758,
+  "tokens": 15399
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/572.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 803049065,
+  "tokens": 31258
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 204268975,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/598.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1988170643,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/598.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 901316105,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/598.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1632871366,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/598.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1491756037,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/612.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 76328886,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/612.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 750796679,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/612.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 839543052,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/612.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1704991770,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/627.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 680532212,
+  "tokens": 21658
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/627.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1326768807,
+  "tokens": 19651
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/627.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 982792550,
+  "tokens": 13003
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/627.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 832684364,
+  "tokens": 8938
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/631.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2135427765,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/631.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1686835472,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/631.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 527935264,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/631.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1900051492,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/679.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 332172669,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/679.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1141066939,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/679.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1838860709,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/679.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1334864481,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 265262261,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/686.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 147009978,
+  "tokens": 9524
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/686.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1739167397,
+  "tokens": 18226
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2095328609,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/691.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1421191783,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/691.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1670536917,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/691.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 183487904,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/691.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 880918446,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1458041877,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 914286687,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1662713243,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/737.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 464638788,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/838.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 759703499,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/838.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2103917889,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/838.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 387441311,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/838.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 288887983,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/864.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1684524856,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/864.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1868457454,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/864.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1353808241,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/864.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 723460355,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/911.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1107034604,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/911.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 820815,
+  "tokens": 29367
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/911.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 501067029,
+  "tokens": 27166
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/number_theory/911.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 884616920,
+  "tokens": 28142
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1898916161,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 883758513,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1530120576,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/number_theory/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 361434296,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1044.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 758872812,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1044.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 489424613,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1044.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 99188009,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1044.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1617646768,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 99607383,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 494586691,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1565066085,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1128.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 61102183,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1139.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1784000930,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1139.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 21234658,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1139.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1542853788,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1139.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 173171096,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1187.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 204329323,
+  "tokens": 28011
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1187.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1169967462,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1187.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 279601728,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1187.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1840809264,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1227.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 591027595,
+  "tokens": 17247
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1227.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 266978991,
+  "tokens": 22262
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1227.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 814421877,
+  "tokens": 31036
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1227.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1362617750,
+  "tokens": 27706
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1233.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 300731038,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1233.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2019464640,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1233.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1562139786,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1233.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1558111869,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1238.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1670182516,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1238.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 2141854131,
+  "tokens": 5830
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1238.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 630108901,
+  "tokens": 13040
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1238.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 279979015,
+  "tokens": 14925
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1016818431,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 659258697,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 179123191,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1247.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1268915056,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1302.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 2105437768,
+  "tokens": 9552
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1302.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1647392686,
+  "tokens": 5062
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1302.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 760481560,
+  "tokens": 7563
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1302.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 893649887,
+  "tokens": 7745
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 801771551,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1800304624,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1609374847,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1353.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1954091212,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1356.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1866363333,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1356.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1264903236,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1356.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1906048186,
+  "tokens": 25886
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1356.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 266561098,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1423.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1220511662,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1423.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 275432044,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1423.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1998827794,
+  "tokens": 31927
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1423.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1018683328,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1436.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 79197603,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1436.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1680959539,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1436.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1466325100,
+  "tokens": 19227
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1436.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1293648897,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1555.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 836570869,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1555.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 785749628,
+  "tokens": 12776
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1555.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 2088950229,
+  "tokens": 14872
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1555.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 2128379162,
+  "tokens": 21936
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1558.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1667092071,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1558.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1191952854,
+  "tokens": 29169
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1558.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1885878278,
+  "tokens": 8424
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1558.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1037195412,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1516364870,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1053182660,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 179593011,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1572.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 57922230,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1622.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1238012651,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1622.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 958721382,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1622.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1519557657,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1622.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1548246285,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1646.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1461210617,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1646.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 858293318,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1646.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1103160853,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1646.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1932590051,
+  "tokens": 24043
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1655.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1085489634,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1655.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 771319853,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1655.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1915351437,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1655.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2120493321,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1686.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 831812149,
+  "tokens": 28027
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2009013370,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1923699259,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1686.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 707206972,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1730.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1525782999,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1730.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1195139077,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1730.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 301545765,
+  "tokens": 15796
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1730.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 598519419,
+  "tokens": 6382
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1733.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 555933125,
+  "tokens": 28933
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1733.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 318503652,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1733.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2061975535,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1733.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 390752564,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1742.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1255074866,
+  "tokens": 13857
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1742.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1705871301,
+  "tokens": 26367
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1742.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1076376674,
+  "tokens": 12355
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1742.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 993664438,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1747.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 754000452,
+  "tokens": 8173
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1747.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 806520601,
+  "tokens": 8300
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1747.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 847003058,
+  "tokens": 10674
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1747.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 942365814,
+  "tokens": 7860
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1787.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 828026683,
+  "tokens": 7996
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1787.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 749225288,
+  "tokens": 25153
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1787.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 651839289,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1787.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 359527945,
+  "tokens": 23841
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1834.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1876740161,
+  "tokens": 8334
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1834.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1581234045,
+  "tokens": 8552
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1834.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 547080658,
+  "tokens": 5341
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/1834.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1043888514,
+  "tokens": 4119
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1908.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 572451289,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1908.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1207188127,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1908.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1014081419,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/1908.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1726877755,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2019.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1981508390,
+  "tokens": 10427
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2019.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 2083853290,
+  "tokens": 2554
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2019.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 675181646,
+  "tokens": 5069
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2019.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1374614860,
+  "tokens": 3198
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2037.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 205142791,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2037.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 622466501,
+  "tokens": 32724
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/2037.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 515030878,
+  "tokens": 9532
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2037.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1601319598,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2057.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1869877905,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2057.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1893322218,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2057.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 912369027,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2057.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 381333766,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2066.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2015938359,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2066.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 44582484,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2066.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1553423053,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/2066.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 563307596,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/805.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 1317572945,
+  "tokens": 21746
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/805.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 1,
+  "seed": 2054607926,
+  "tokens": 17368
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/805.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 458118154,
+  "tokens": 23340
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/805.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 3,
+  "seed": 1857818357,
+  "tokens": 27062
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/846.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 101253543,
+  "tokens": 7458
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/846.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1212115571,
+  "tokens": 7784
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/846.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 691310962,
+  "tokens": 11698
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/846.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 705572723,
+  "tokens": 5201
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2102969290,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2023368770,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/prealgebra/914.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1096744145,
+  "tokens": 32071
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/914.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 761838311,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/993.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1669767051,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/993.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 312254805,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/993.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 542843926,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/prealgebra/993.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 287494114,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1056.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 887156613,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1056.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2014998865,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1056.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2107207250,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1056.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1825619116,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1105.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1827544426,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1105.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1311036395,
+  "tokens": 13842
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1105.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1549525878,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1105.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 254831330,
+  "tokens": 6045
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1201.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1885548331,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1201.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 373828836,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1201.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1626683708,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1201.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1947083116,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1202.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1422368500,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1202.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 995485417,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1202.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1344437212,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1202.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1661898744,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1252.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 15012169,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1252.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2043288350,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1252.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 272422099,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1252.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 613393721,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1281.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2086419211,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1281.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 716212475,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1281.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 570918001,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1281.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1774137526,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1289.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 1603228181,
+  "tokens": 2062
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1289.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1357752008,
+  "tokens": 2261
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1289.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1846652237,
+  "tokens": 2814
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1289.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1943919792,
+  "tokens": 7785
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1291.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 441054173,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1291.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 779690761,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1291.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1110892215,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1291.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1480556629,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1560137874,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1682851952,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1727688383,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1300.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 985202318,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 150427684,
+  "tokens": 24047
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1303.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1328237233,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/1303.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 232698020,
+  "tokens": 22054
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/1303.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 455787659,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/145.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 555265370,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/145.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1922750884,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/145.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 692989153,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/145.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1943151015,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/24313.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 709497150,
+  "tokens": 31693
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/24313.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1776472812,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/24313.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 652850055,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/24313.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2135688191,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/263.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1770134197,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/263.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 899194850,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/263.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 804097257,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/263.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1940876196,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/285.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 2028073317,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/285.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 238448174,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/285.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1440171466,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/285.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1594106129,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/323.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 400825955,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/323.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1623057413,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/323.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 522172272,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/323.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 253292560,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/34.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 2068781068,
+  "tokens": 13914
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/34.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 890620782,
+  "tokens": 15071
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/34.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1374136944,
+  "tokens": 23624
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/34.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 1574239108,
+  "tokens": 28175
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/398.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 0,
+  "seed": 487065584,
+  "tokens": 30826
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/398.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1926991571,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/398.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 526989727,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/398.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 190511980,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/452.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 131081170,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/452.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 464939341,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/452.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 480731745,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/452.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2088896429,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/477.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1952776528,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/477.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 158165174,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/477.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1553082675,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/477.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 40936275,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/541.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 759752148,
+  "tokens": 29696
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/541.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 1479918076,
+  "tokens": 11636
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/541.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1463201751,
+  "tokens": 21292
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/541.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 255360545,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/580.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1658890678,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/580.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1233866122,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/580.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 2,
+  "seed": 1916069188,
+  "tokens": 24679
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/580.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1824741056,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/625.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 490619459,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/625.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 665848118,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/625.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1667755297,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/625.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 2067797674,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/675.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 90131153,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/675.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1688857453,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/675.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 137874107,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/675.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 337645140,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/697.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 655211972,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/697.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 508295175,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/697.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 932048720,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/697.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1218729512,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/742.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1188990285,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/742.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1585802298,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/742.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 71509979,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/742.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1660333724,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/779.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1704388899,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/779.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 259017863,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/779.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 753521899,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/779.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1076484358,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/801.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1691835367,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/801.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1630559030,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/801.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 840879392,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/801.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 405813252,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/819.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 0,
+  "seed": 894106133,
+  "tokens": 11887
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/819.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 1,
+  "seed": 595770547,
+  "tokens": 10207
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/819.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 1167734178,
+  "tokens": 8921
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/819.json",
+  "no_answer": false,
+  "passed": true,
+  "sample": 3,
+  "seed": 369921278,
+  "tokens": 9360
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/881.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 113061638,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/881.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 18196633,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/881.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 2142055733,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/881.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1949664516,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/902.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 242367138,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/902.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 118504428,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": false,
+  "grade_error": false,
+  "id": "test/precalculus/902.json",
+  "no_answer": false,
+  "passed": false,
+  "sample": 2,
+  "seed": 2146805040,
+  "tokens": 30509
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/902.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 153627026,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/920.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1368587856,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/920.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 1158775857,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/920.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 173024816,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/920.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 1885169492,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/927.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 0,
+  "seed": 1257059434,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/927.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 1,
+  "seed": 2037802988,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/927.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 2,
+  "seed": 1155113733,
+  "tokens": 32768
+ },
+ {
+  "cap_hit": true,
+  "grade_error": false,
+  "id": "test/precalculus/927.json",
+  "no_answer": true,
+  "passed": false,
+  "sample": 3,
+  "seed": 503879369,
+  "tokens": 32768
+ }
+]

@@ -1,0 +1,5 @@
+{
+ "read_from": "a real vLLM 0.33.0 load of Qwen3.5-0.8B on the tower, 4 Nov 2026, 248 parameters",
+ "float32": ["linear_attn.A_log"],
+ "everything_else": "bfloat16"
+}

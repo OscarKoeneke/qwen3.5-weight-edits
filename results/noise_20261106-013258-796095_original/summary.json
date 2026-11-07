@@ -1,0 +1,64 @@
+{
+ "cells": {
+  "gsm8k-o0": {
+   "answers": 2640,
+   "cap_hit": 0.6397727272727273,
+   "grade_errors": 0,
+   "mean_tokens": 26203.76287878788,
+   "no_answer": 0.6401515151515151,
+   "pass": 0.33560606060606063
+  },
+  "ifeval-o0": {
+   "answers": 1084,
+   "cap_hit": 0.1559040590405904,
+   "grade_errors": 0,
+   "mean_tokens": 8682.862546125461,
+   "no_answer": 0.15867158671586715,
+   "pass": 0.5710332103321033
+  },
+  "math500-o0": {
+   "answers": 1000,
+   "cap_hit": 0.813,
+   "grade_errors": 0,
+   "mean_tokens": 29705.488,
+   "no_answer": 0.814,
+   "pass": 0.182
+  }
+ },
+ "speed": [
+  {
+   "load_s": 18.0,
+   "problem": null,
+   "readback_ok": true
+  },
+  {
+   "answers": 1000,
+   "cell": "math500-o0",
+   "longest_prompt": 857,
+   "tokens": 29705488,
+   "tokens_per_s": 3255.9,
+   "wall_s": 9123.5
+  },
+  {
+   "answers": 2640,
+   "cell": "gsm8k-o0",
+   "longest_prompt": 183,
+   "tokens": 69177934,
+   "tokens_per_s": 3341.4,
+   "wall_s": 20703.3
+  },
+  {
+   "load_s": 17.8,
+   "problem": null,
+   "readback_ok": true
+  },
+  {
+   "answers": 1084,
+   "cell": "ifeval-o0",
+   "longest_prompt": 373,
+   "tokens": 9412223,
+   "tokens_per_s": 4320.4,
+   "wall_s": 2178.5
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{"load_s": 71.6, "problem": null, "readback_ok": true}
+{"answers": 1000, "cell": "math500", "longest_prompt": 857, "tokens": 27767159, "tokens_per_s": 3240.3, "wall_s": 8569.3}

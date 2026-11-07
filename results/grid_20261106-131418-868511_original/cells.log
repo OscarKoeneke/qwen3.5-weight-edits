@@ -1,0 +1,7 @@
+{"load_s": 16.9, "problem": null, "readback_ok": true}
+{"answers": 1000, "cell": "math500-p1.5-r1.05", "longest_prompt": 857, "tokens": 28671891, "tokens_per_s": 3262.5, "wall_s": 8788.2}
+{"answers": 1000, "cell": "math500-p1.5-r1.1", "longest_prompt": 857, "tokens": 26891387, "tokens_per_s": 3334.5, "wall_s": 8064.6}
+{"answers": 1000, "cell": "math500-p2.0-r1.0", "longest_prompt": 857, "tokens": 29097329, "tokens_per_s": 3266.4, "wall_s": 8908.0}
+{"load_s": 17.7, "problem": null, "readback_ok": true}
+{"answers": 1000, "cell": "math500-p2.0-r1.05", "longest_prompt": 857, "tokens": 27911557, "tokens_per_s": 3301.0, "wall_s": 8455.6}
+{"answers": 1000, "cell": "math500-p2.0-r1.1", "longest_prompt": 857, "tokens": 22084330, "tokens_per_s": 3573.5, "wall_s": 6180.0}

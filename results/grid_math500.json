@@ -1,0 +1,75 @@
+{
+ "best": {
+  "no_loop": {
+   "presence_penalty": 2.0,
+   "repetition_penalty": 1.1
+  },
+  "pass": {
+   "presence_penalty": 1.5,
+   "repetition_penalty": 1.1
+  }
+ },
+ "points": [
+  {
+   "answers": 1000,
+   "cap_hit": 0.813,
+   "grade_errors": 0,
+   "mean_tokens": 29705.488,
+   "no_answer": 0.814,
+   "pass": 0.182,
+   "presence_penalty": 1.5,
+   "repetition_penalty": 1.0
+  },
+  {
+   "answers": 1000,
+   "cap_hit": 0.765,
+   "grade_errors": 0,
+   "mean_tokens": 28671.891,
+   "no_answer": 0.765,
+   "pass": 0.226,
+   "presence_penalty": 1.5,
+   "repetition_penalty": 1.05
+  },
+  {
+   "answers": 1000,
+   "cap_hit": 0.62,
+   "grade_errors": 0,
+   "mean_tokens": 26891.387,
+   "no_answer": 0.62,
+   "pass": 0.269,
+   "presence_penalty": 1.5,
+   "repetition_penalty": 1.1
+  },
+  {
+   "answers": 1000,
+   "cap_hit": 0.788,
+   "grade_errors": 0,
+   "mean_tokens": 29097.329,
+   "no_answer": 0.789,
+   "pass": 0.203,
+   "presence_penalty": 2.0,
+   "repetition_penalty": 1.0
+  },
+  {
+   "answers": 1000,
+   "cap_hit": 0.716,
+   "grade_errors": 0,
+   "mean_tokens": 27911.557,
+   "no_answer": 0.716,
+   "pass": 0.245,
+   "presence_penalty": 2.0,
+   "repetition_penalty": 1.05
+  },
+  {
+   "answers": 1000,
+   "cap_hit": 0.411,
+   "grade_errors": 0,
+   "mean_tokens": 22084.33,
+   "no_answer": 0.419,
+   "pass": 0.254,
+   "presence_penalty": 2.0,
+   "repetition_penalty": 1.1
+  }
+ ],
+ "run": "grid_20261106-131418-868511_original"
+}

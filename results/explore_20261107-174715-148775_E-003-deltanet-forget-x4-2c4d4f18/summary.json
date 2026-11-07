@@ -1,0 +1,27 @@
+{
+ "cells": {
+  "math500": {
+   "answers": 1000,
+   "cap_hit": 0.801,
+   "grade_errors": 0,
+   "mean_tokens": 27767.159,
+   "no_answer": 0.812,
+   "pass": 0.137
+  }
+ },
+ "speed": [
+  {
+   "load_s": 71.6,
+   "problem": null,
+   "readback_ok": true
+  },
+  {
+   "answers": 1000,
+   "cell": "math500",
+   "longest_prompt": 857,
+   "tokens": 27767159,
+   "tokens_per_s": 3240.3,
+   "wall_s": 8569.3
+  }
+ ]
+}

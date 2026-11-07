@@ -1,0 +1,5 @@
+{"load_s": 18.0, "problem": null, "readback_ok": true}
+{"answers": 1000, "cell": "math500-o0", "longest_prompt": 857, "tokens": 29705488, "tokens_per_s": 3255.9, "wall_s": 9123.5}
+{"answers": 2640, "cell": "gsm8k-o0", "longest_prompt": 183, "tokens": 69177934, "tokens_per_s": 3341.4, "wall_s": 20703.3}
+{"load_s": 17.8, "problem": null, "readback_ok": true}
+{"answers": 1084, "cell": "ifeval-o0", "longest_prompt": 373, "tokens": 9412223, "tokens_per_s": 4320.4, "wall_s": 2178.5}

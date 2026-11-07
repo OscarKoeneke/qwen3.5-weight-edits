@@ -1,0 +1,41 @@
+{
+ "gsm8k": {
+  "cap_hit_by_repeat": [
+   0.6397727272727273
+  ],
+  "cap_hit_sd": null,
+  "mean_tokens": 26203.76287878788,
+  "null_pairs": [],
+  "null_pairs_clearing_zero": 0,
+  "pass_by_repeat": [
+   0.33560606060606063
+  ],
+  "pass_sd": null
+ },
+ "ifeval": {
+  "cap_hit_by_repeat": [
+   0.1559040590405904
+  ],
+  "cap_hit_sd": null,
+  "mean_tokens": 8682.862546125461,
+  "null_pairs": [],
+  "null_pairs_clearing_zero": 0,
+  "pass_by_repeat": [
+   0.5710332103321033
+  ],
+  "pass_sd": null
+ },
+ "math500": {
+  "cap_hit_by_repeat": [
+   0.813
+  ],
+  "cap_hit_sd": null,
+  "mean_tokens": 29705.488,
+  "null_pairs": [],
+  "null_pairs_clearing_zero": 0,
+  "pass_by_repeat": [
+   0.182
+  ],
+  "pass_sd": null
+ }
+}

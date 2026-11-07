@@ -1,0 +1,67 @@
+{
+ "written": "2026-11-03T17:39:39Z",
+ "seed": 20261103,
+ "model": {
+  "repo": "Qwen/Qwen3.5-0.8B",
+  "revision": "2fc06364715b967f1860aea9cf38778875588b17",
+  "files": {
+   "model.safetensors-00001-of-00001.safetensors": "04b1c301231dd422b8860db31311ab2721511346a32cb1e079c4c4e5f1fe4696"
+  }
+ },
+ "sets": {
+  "math500": {
+   "repo": "HuggingFaceH4/MATH-500",
+   "revision": "6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be",
+   "items": 500,
+   "files": {
+    "test.jsonl": "35dc41080a3680858b27fa7e0533d2d547825316fc5dafe5d316f4ccc5a06132"
+   },
+   "exploring": {
+    "count": 250,
+    "file": "math500_exploring.json",
+    "sha256": "3c05512217df59afd2b932a89f05e756debc2ab5449880c3453feb0958f9fefb"
+   },
+   "untouched": {
+    "count": 250,
+    "file": "math500_untouched.json",
+    "sha256": "824253a2ffa6c9d98b597b59fd1fdbe863644d60ac806e19065f44b114f68438"
+   }
+  },
+  "gsm8k": {
+   "repo": "openai/gsm8k",
+   "revision": "740312add88f781978c0658806c59bc2815b9866",
+   "items": 1319,
+   "files": {
+    "main/test-00000-of-00001.parquet": "ee7b8da9e381df27b9e3f7758a159ab2bdaa4dbaa910546cbbc47e0cb44e4f59"
+   },
+   "exploring": {
+    "count": 660,
+    "file": "gsm8k_exploring.json",
+    "sha256": "7d07d093f5131c4d65ca1dd8a09122ac884e48b8802a2a176c49d614af75348a"
+   },
+   "untouched": {
+    "count": 659,
+    "file": "gsm8k_untouched.json",
+    "sha256": "9ffec6cdfb01aa58df6c24e43db0af1350f7d321b32b4f7961f48d4e4f0c5872"
+   }
+  },
+  "ifeval": {
+   "repo": "google/IFEval",
+   "revision": "966cd89545d6b6acfd7638bc708b98261ca58e84",
+   "items": 541,
+   "files": {
+    "ifeval_input_data.jsonl": "6a85310ca8ce15eff755aa08a3a4ff931c7e273e7515ebb3c492ea85fd8288f2"
+   },
+   "exploring": {
+    "count": 271,
+    "file": "ifeval_exploring.json",
+    "sha256": "cea9973db9cd0c463c4f586a38891fbef0d6193d4ce903fc2bc95a21a026d302"
+   },
+   "untouched": {
+    "count": 270,
+    "file": "ifeval_untouched.json",
+    "sha256": "91e701079fb084ec069b3cbd41790b03fdd211f0baff83d947bd4f5839201a5b"
+   }
+  }
+ }
+}

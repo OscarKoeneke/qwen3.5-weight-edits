@@ -4,14 +4,13 @@ A small study, run 3 to 7 November 2026 on one RTX 4090. It edits the weights of
 
 ## The answer
 
-The question was whether editing the weights of Qwen3.5-0.8B directly, with no training, can stop its thinking loops. **The study found no confirmed finding.**
+The question was whether editing the weights of Qwen3.5-0.8B directly, with no training, can stop its thinking loops. **One edit is a promising lead, not yet confirmed.**
 
-- One edit, E-002, made the Gated DeltaNet memory in layers 4 to 22 forget twice as fast. It cut loops and raised the pass rate on exploring MATH-500 questions from 18.2% to 28.7%, a paired gain of +10.5 points [+6.6, +14.5].
-- But a free sampler setting (repetition penalty 1.1) does about as well, 26.9%, and E-002 only ties it: +1.8 [-2.1, +5.6].
-- No random edit of the same size was run, so it isn't shown that the direction of E-002's change matters.
+- **E-002** makes the Gated DeltaNet memory in layers 4 to 22 forget twice as fast, by changing 240 numbers. It cut loops and raised the pass rate on exploring MATH-500 questions from 18.2% to 28.7%, a paired gain of +10.5 points [+6.6, +14.5]. Its finished answers also stayed right more often than with the settings fix (see "Easy and hard questions").
+- It isn't confirmed under the study's own rules. A free sampler setting (repetition penalty 1.1) reaches 26.9%, and E-002 ties it: +1.8 [-2.1, +5.6]. No random edit of the same size was run, run-to-run noise wasn't measured, and E-002 was never tried on the locked questions.
 - The two other edits made the model worse.
 
-No edit earned the confirmation run, so no untouched question was ever sent to the model.
+Confirming E-002 would take a random control, repeats of the baseline and one run on the untouched questions (see "Untested next steps"). No untouched question has been sent to the model.
 
 ## What was set up
 
@@ -124,6 +123,7 @@ The groups are picked from the default's own results, which favours the other ru
 Each would need its own go. None is planned.
 
 - A random edit of E-002's size, about 2.5 tower hours. It would show whether the direction of the change matters.
+- Repeats 2 to 5 of the baseline (about 36 tower hours) and one confirmation run on the untouched questions (about 28), which the plan requires before any claim.
 - E-002 on GSM8K and IFEval, as a first damage check.
 - E-002 together with the (1.5, 1.1) setting. This needs a small harness change, because explore runs at the default settings only.
 - Strengths between twice and four times, such as 1.5 or 3 times.
